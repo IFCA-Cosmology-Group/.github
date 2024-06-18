@@ -12,6 +12,9 @@ The Observational Cosmology and Instrumentation group  at IFCA focuses on the st
 - Large scale structure and secondary anisotropies
 - Gravitational lensing
 - Signal processing and statistics
+- Line-intensity mapping
+- Beyond LCDM cosmologies
+- Dark Matter searches/phenomenology
 
 ## Instrumentation topics
 - Microwave radiometers
